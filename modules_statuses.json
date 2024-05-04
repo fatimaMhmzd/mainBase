@@ -1,0 +1,11 @@
+{
+    "Ticket": true,
+    "User": true,
+    "SocialMedia": true,
+    "Slider": true,
+    "Setting": true,
+    "Page": true,
+    "Group": true,
+    "Blog": true,
+    "Polymorphism": true
+}

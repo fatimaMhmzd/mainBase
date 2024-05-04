@@ -1,0 +1,11 @@
+{
+    "name": "Polymorphism",
+    "alias": "polymorphism",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Polymorphism\\Providers\\PolymorphismServiceProvider"
+    ],
+    "files": []
+}
